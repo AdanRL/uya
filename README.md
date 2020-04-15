@@ -12,4 +12,4 @@ Alejandro Estevez Chinea
 
 - Práctica Materialize: [Materialize](https://github.com/alu0100909012/uya/tree/master/materialize)
 - Práctica Javascript:[Javascript](https://github.com/alu0100909012/uya/tree/master/javascript)
-- Práctica Ajax:  [asd]()
+- Práctica Ajax:  [Ajax](https://github.com/alu0100909012/uya/tree/master/ajax)
