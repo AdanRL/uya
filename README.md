@@ -2,7 +2,7 @@
 repositorio para todas las practicas de uya, grupo 5
 Integrantes
 
-Oscar Pozo Hernandez,
+Oscar Pozo Fernández,
 Adan de la Rosa Lugo,
 Alejandro Estevez Chinea
 
